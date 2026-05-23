@@ -35,9 +35,9 @@ Freshman interested in the theoretical foundations of AGI and reasoning mechanis
 | Award | Year |
 |-------|------|
 | 🥈 **National College Math Competition** — 2nd Prize (national level) | 2025 |
-| 🤖 **"Weiyangcheng" AI Agent Contest** — 2nd Prize, Creative Track | 2026 |
+| 🤖 **["Weiyangcheng" AI Agent Contest](https://github.com/brightcolin/thu-course-pilot)** — 2nd Prize, Creative Track | 2026 |
 | 🏎️ **Wireless Charging Smart Car Challenge** — 3rd Prize & Innovation Design Award | 2025 |
-| 🎮 **Software Design Competition** — Merit Award, Backend Lead | 2026 |
+| 🎮 **[Software Design Competition](https://github.com/brightcolin/thu-story)** — Merit Award, Backend Lead | 2026 |
 
 ### Tech Stack
 
